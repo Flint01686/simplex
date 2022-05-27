@@ -1,0 +1,11 @@
+
+.chooser_form_solution{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.chooser_form_solution label{
+    font-size: 1.8rem;
+    margin-right: 10px;
+}

@@ -1,0 +1,30 @@
+.chooser_values_form { 
+    display: flex;
+    flex-direction: column;
+    font-size: 2rem;
+}
+.chooser_values_form_row{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.chooser_values_form_cell{
+    margin-right: 7px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.chooser_values_form_label{
+    /* font-size: 0.5em; */
+}
+
+.chooser_values_form_input{ 
+    width: 3em;
+    padding: 6px 0px 6px 0px;
+    text-align: center;
+    line-height: normal;
+    font-size: 18px;
+    margin-right: 4px;
+}

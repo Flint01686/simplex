@@ -1,0 +1,16 @@
+.chooser_count_vars_conditions{
+    display: flex;
+    flex-direction: column;
+}
+
+.chooser_count_vars_conditions_item{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+.chooser_count_vars_conditions_item label{
+    margin-right: 10px;
+}
+.kolPR{
+    height: 3em;
+}

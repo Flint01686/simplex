@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+.simplex_method{
+    margin-top: 5%;
+    /* font-size: 1.5rem; */
+    font-size: 2em;
+    font-stretch: ultra-expanded;
+    background-color: white;
+    padding: 20px;
+    /* font-family: 'Amatic SC', sans-serif; */
+}
+
+.field_btn_get_solution{
+    display: flex;
+    width: 100%;
+}
+
+.btn_get_solution{
+    font-size: 1rem;
+    padding: 5px 8px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.report_solution{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    white-space: pre-wrap
+}
